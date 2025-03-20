@@ -1,0 +1,97 @@
+{
+    "income":[
+        {
+            "amount":100000,
+            "crypto":1.01393,
+            "date":"12 March, 2024",
+            "totalFiat": true
+        },
+        {
+            "amount":20000,
+            "crypto":0.5385,
+            "date":"14 April, 2024",
+            "totalFiat": false
+        },
+        {
+            "amount":27000,
+            "crypto":0.63468,
+            "date":"20 May, 2024",
+            "totalFiat": false
+        }
+    ],
+
+    "expenses":[
+        {
+            "amount":16000,
+            "crypto":0.0000843,
+            "date":"12 February, 2024",
+            "totalFiat": false
+        },
+        {
+            "amount":7500,
+            "crypto":0.0001274,
+            "date":"7 April, 2024",
+            "totalFiat": true
+        },
+        {
+            "amount":47000,
+            "crypto":0.00000487,
+            "date":"19 May, 2024",
+            "totalFiat": false
+        }
+    ],
+
+    "investments":[
+        {
+            "amount":163000,
+            "crypto":1.0763,
+            "date":"10 March, 2024",
+            "totalFiat": false
+        },
+        {
+            "amount":960500,
+            "crypto":2.6574,
+            "date":"15 April, 2024",
+            "totalFiat": true
+        },
+        {
+            "amount":375000,
+            "crypto":13.487,
+            "date":"3 May, 2024",
+            "totalFiat": false
+        }
+    ],
+
+    "SMSNotification":[
+        {
+            "category":"income",
+            "title":"Interest Payment",
+            "message":"An interest of $435 was added to your account",
+            "time": "4 hours ago"
+        },
+        {
+            "category":"investment",
+            "title":"Investment Opportunity",
+            "message":"Invest in Treasury Bills and earn 18% return",
+            "time": "12 hours ago"
+        },
+        {
+            "category":"expenses",
+            "title":"Utility Bill",
+            "message":"$45 was debited for DSTV Subscription",
+            "time": "1 day ago"
+        },
+        {
+            "category":"investment",
+            "title":"US Stock",
+            "message":"You bought 1.8435 shares of AMZN at an average price of $212 ",
+            "time": "4 hours ago"
+        },
+        {
+            "category":"investment",
+            "title":"US Stock",
+            "message":"You bought 2.5143 shares of NVDA at an average price of $182 ",
+            "time": "5 hours ago"
+        }
+    ]
+}
